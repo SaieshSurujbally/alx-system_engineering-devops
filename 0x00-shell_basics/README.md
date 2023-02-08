@@ -4,3 +4,4 @@ Question 0 prints the absolute path name of the current working directory
 task 3 displays current directory in a long format
 task 4 displays current directory contents, including hidden files use the long format.
 Displays current directory contents
+Create a script that creates a directory named my_first_directory in the /tmp/ directory
