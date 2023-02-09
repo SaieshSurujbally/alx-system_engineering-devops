@@ -11,3 +11,4 @@ john who?
 mirror mirror
 directories permission
 directory permisions
+changing th egroup
