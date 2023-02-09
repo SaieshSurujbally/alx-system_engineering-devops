@@ -9,3 +9,4 @@ everybody shots shots shots
 bond james bond
 john who?
 mirror mirror
+directories permission
