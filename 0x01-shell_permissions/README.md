@@ -10,3 +10,4 @@ bond james bond
 john who?
 mirror mirror
 directories permission
+directory permisions
