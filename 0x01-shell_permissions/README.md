@@ -5,3 +5,4 @@ Write a script that changes the owner of the file hello to the user betty
 empty file called hello
 hello as a chmod
 chmod hello 774
+everybody shots shots shots
