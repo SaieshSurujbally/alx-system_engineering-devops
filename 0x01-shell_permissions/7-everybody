@@ -1,2 +1,2 @@
-#!/bin/bang
-chmod 755 hello
+#!/bin/bash
+chmod ugo+x hello
