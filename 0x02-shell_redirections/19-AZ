@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter your input: " input; echo ${input//[Ac]/Ze}
+tr 'Az' 'Ze' < input_file
