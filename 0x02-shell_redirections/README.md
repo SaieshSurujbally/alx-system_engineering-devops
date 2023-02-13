@@ -22,3 +22,4 @@ Display all the lines in the file /etc/passwd that do not contain the pattern bi
 grep ^[A-Za-z] /etc/ssh/sshd_config
 replace letters
 Create a script that removes all letters c and C from input.
+Write a script that reverse its input.
