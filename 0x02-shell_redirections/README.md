@@ -24,3 +24,4 @@ replace letters
 Create a script that removes all letters c and C from input.
 Write a script that reverse its input.
 cut -d: -f1,6 /etc/passwd | sort
+Write a command that finds all empty files and directories in the current directory and all sub-directories.
