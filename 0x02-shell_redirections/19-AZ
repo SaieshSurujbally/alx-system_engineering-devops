@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Az' 'Ze' < input_file
+tr 'Az' 'Ze' 
